@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.ser-data{
+   color: aqua;
+   background-color: black;
+}
+.add-btn{
+  width: 60px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(66, 66, 252);
+  color: white;
+}
+.edit-btn{
+  width: 60px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  background-color:green;
+  color: white;
+
+}
+.delete-btn{
+  width: 60px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  background-color:red;
+  color: white;
+  margin-left: 10px;
+}
+.submit{
+  border: 2px solid black;
+}
